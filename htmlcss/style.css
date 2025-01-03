@@ -1,0 +1,17 @@
+*{ /*universal selector *{} */
+   background-color: burlywood;
+}
+
+#headingOne{
+    color: red;
+}
+#headingTwo{  /* #myid{}*/
+    color: aqua;
+}
+.body{  /* class start with . */
+    color: azure;
+}
+button{
+    color:brown;
+ background-color: aliceblue;
+}
